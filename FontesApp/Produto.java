@@ -1,3 +1,4 @@
+//Classe que guarda os produtos e serviços vendidos pelo estacionamento
 
 public class Produto {
 
